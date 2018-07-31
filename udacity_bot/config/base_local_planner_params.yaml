@@ -1,0 +1,9 @@
+TrajectoryPlannerROS:
+
+  holonomic_robot: false
+  meter_scoring: True
+  publish_cost_grid_pc: true
+  heading_scoring: false
+  latch_xy_goal_tolerance: true
+
+controller_frequency: 10
